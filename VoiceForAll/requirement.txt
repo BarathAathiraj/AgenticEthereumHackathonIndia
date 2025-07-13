@@ -1,0 +1,7 @@
+flask
+flask-cors
+firebase-admin
+requests
+google-cloud-translate
+google-cloud-speech
+google-cloud-storage
